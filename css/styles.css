@@ -3,6 +3,7 @@ body {
 	}
 #content {
 	width:1024px;
+	margin:0 auto;
     background-color:SeaShell;
 	}
 .intro p {
