@@ -1,4 +1,15 @@
-.intro p{color:green;
-         font-family: 'Gloria Hallelujah', cursive;}
-.intro h1{color:red;
-          font-family: 'Lobster', cursive;}
+body {
+	background-color:beige;
+	}
+#content {
+	width:1024px;
+    background-color:SeaShell;
+	}
+.intro p {
+	color:YellowGreen;
+    font-family: 'Gloria Hallelujah', cursive;
+	}
+.intro h1 {
+	color:Red;
+    font-family: 'Lobster', cursive;
+	}
