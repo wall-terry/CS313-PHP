@@ -6,6 +6,9 @@ body {
 	margin:0 auto;
     background-color:SeaShell;
 	}
+.intro {
+	margin:150px auto 150px auto;
+	}
 .intro p {
 	color:YellowGreen;
     font-family: 'Gloria Hallelujah', cursive;
